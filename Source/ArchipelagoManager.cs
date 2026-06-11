@@ -185,7 +185,7 @@ namespace Celeste.Mod.Celeste_Multiworld
             }
 
             var result = await _session.LoginAsync(
-                "Celeste (Open World)",
+                "Abyssal Celeste",
                 Celeste_MultiworldModule.Settings.SlotName,
                 ItemsHandlingFlags.AllItems,
                 _supportedArchipelagoVersion,
