@@ -66,6 +66,10 @@ namespace Celeste.Mod.Celeste_Multiworld.Items
         {
             { 0xCA10000, "Strawberry" },
             { 0xCA10001, "Raspberry" },
+            { 0xCA10000, "Blueberry" },
+            { 0xCA10001, "Blackberry" },
+            { 0xCA10000, "Banana" },
+            { 0xCA10001, "Saskatoon Berry" },
 
             { 0xCA10010, "Granny's House Keys" },
 
